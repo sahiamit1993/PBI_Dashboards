@@ -48,7 +48,8 @@ The dashboard helps in understanding **which skills drive higher salaries** and 
 
 ## 📷 Dashboard Preview
 
-![Salary Dashboard](Screenshot 2026-04-25 185103.png)
+<img width="1311" height="737" alt="Screenshot 2026-04-25 185103" src="https://github.com/user-attachments/assets/87414110-1f68-4251-b993-9aa91e055504" />
+
 
 ---
 
